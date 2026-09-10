@@ -3,21 +3,21 @@ export const products = [
     id: 1,
     name: "Premium Wireless Headphones",
     price: 299.99,
-    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+    image: "/images/headphones.jpg",
     description: "Experience premium sound quality with our industry-leading noise cancellation."
   },
   {
     id: 2,
     name: "Minimalist Smartwatch",
     price: 199.50,
-    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+    image: "/images/smartwatch.jpg",
     description: "Stay connected with style. Features fitness tracking and seamless notifications."
   },
   {
     id: 3,
     name: "Ergonomic Mechanical Keyboard",
     price: 149.00,
-    image: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=500&q=80",
+    image: "/images/keyboard.jpg",
     description: "Enhance your productivity with tactile feedback and customizable RGB lighting."
   },
   {
